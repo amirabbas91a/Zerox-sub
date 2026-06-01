@@ -2,8 +2,8 @@ name: Update Subscription
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # هر ۶ ساعت یک‌بار به صورت خودکار آپدیت می‌شود
-  workflow_dispatch: # امکان آپدیت دستی را به شما می‌دهد
+    - cron: '*/50 * * * *' # تنظیم شده برای اجرا در فواصل ۵۰ دقیقه‌ای
+  workflow_dispatch:
 
 jobs:
   update:
@@ -14,13 +14,8 @@ jobs:
 
       - name: Fetch and Modify Configs
         run: |
-          # دانلود فایل از لینک مبدا
           curl -s "https://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt" > temp.txt
-          
-          # جایگزینی تمام نام‌های بعد از # با ZeroxVPN
           sed -E 's/(#[^[:space:]\\]*)/#ZeroxVPN/g' temp.txt > sub.txt
-          
-          # پاک کردن فایل موقت
           rm temp.txt
 
       - name: Commit and Push changes
@@ -30,4 +25,3 @@ jobs:
           git add sub.txt
           git commit -m "Update configs with ZeroxVPN name" || exit 0
           git push
-
