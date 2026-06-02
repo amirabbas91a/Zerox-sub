@@ -7,9 +7,9 @@ hysteria2://Masir_Sefid@18.185.89.204:54040?sni=qus.masir-sefid.shop&insecure=0&
 hysteria2://Masir_Sefid@18.185.89.204:59826?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
 hysteria2://Masir_Sefid@18.185.89.204:52848?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
 hysteria2://Masir_Sefid@18.185.89.204:48637?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.185.89.204:4784?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.185.89.204:8443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.185.89.204:47840?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.185.89.204:35035?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
 hysteria2://Masir_Sefid@18.185.89.204:44044?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.185.89.204:48?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.185.89.204:15?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.185.89.204:2083?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.185.89.204:48990?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.185.89.204:15015?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.185.89.204:20830?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
