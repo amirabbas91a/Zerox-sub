@@ -1,6 +1,6 @@
-hysteria2://Masir_Sefid@18.198.106.153:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.198.106.153:444?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.198.106.153:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.198.106.153:1040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.198.106.153:4040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
-hysteria2://Masir_Sefid@18.198.106.153:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.184.229.139:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.184.229.139:444?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.184.229.139:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.184.229.139:1040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.184.229.139:4040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
+hysteria2://Masir_Sefid@18.184.229.139:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ZeroxVPN
