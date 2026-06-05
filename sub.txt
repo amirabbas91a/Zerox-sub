@@ -7,11 +7,11 @@ hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-pa
 hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ZeroxVPN
 hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ZeroxVPN
 hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ZeroxVPN
-hysteria2://Masir_Sefid@195.15.254.245:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
-hysteria2://Masir_Sefid@195.15.254.245:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
-hysteria2://Masir_Sefid@195.15.254.245:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
-hysteria2://Masir_Sefid@195.15.254.245:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
-hysteria2://Masir_Sefid@195.15.254.245:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
-hysteria2://Masir_Sefid@195.15.254.245:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
-hysteria2://Masir_Sefid@195.15.254.245:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
+hysteria2://Masir_Sefid@195.15.201.34:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=1&sni=free.masir-sefid-1.my#ZeroxVPN
+hysteria2://Masir_Sefid@195.15.201.34:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
+hysteria2://Masir_Sefid@195.15.201.34:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
+hysteria2://Masir_Sefid@195.15.201.34:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
+hysteria2://Masir_Sefid@195.15.201.34:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
+hysteria2://Masir_Sefid@195.15.201.34:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
+hysteria2://Masir_Sefid@195.15.201.34:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid-1.my#ZeroxVPN
 
