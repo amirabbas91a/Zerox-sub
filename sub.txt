@@ -1,4 +1,6 @@
 hysteria2://@:-1?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=masir-sefid.shop#ZeroxVPN
+vless://e72dfecf-7d26-4065-94cc-3fc6ce2d8314@84.234.31.190:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=free3.masir-sefid-1.my#ZeroxVPN
+vless://e72dfecf-7d26-4065-94cc-3fc6ce2d8314@195.15.253.119:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=free2.masir-sefid-1.my#ZeroxVPN
 hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#ZeroxVPN
 hysteria2://Masir_Sefid@18.157.222.169:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ZeroxVPN
 hysteria2://Masir_Sefid@18.157.222.169:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ZeroxVPN
